@@ -2,7 +2,7 @@ Zenja's OS161 Operating System
 ==============================
 
 This is my try on implementing some parts of the OS161 operating system 
-based on the assignments of Harvard's course CS161. Good luck to me!
+based on the assignments of Harvard's course CS161. Good luck to myself! :D
 
 Course Homepage for Spring 2011: http://www.eecs.harvard.edu/~margo/cs161/web/index.html
 
